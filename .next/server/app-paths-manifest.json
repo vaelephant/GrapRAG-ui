@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/api/neo4j/route": "app/api/neo4j/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
