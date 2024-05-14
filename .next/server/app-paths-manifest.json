@@ -1,5 +1,6 @@
 {
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/api/neo4j/route": "app/api/neo4j/route.js",
+  "/page": "app/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js"
 }
