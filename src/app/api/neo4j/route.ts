@@ -20,7 +20,7 @@ export async function GET(req: NextRequest): Promise<NextResponse> {
 
   try {
     // Initialize the Neo4j driver
-    driver = neo4j.driver('bolt://127.0.0.1:7687', auth.basic('neo4j', 'txys6666'));
+    driver = neo4j.driver('bolt://113.250.13.252:7687', auth.basic('neo4j', 'txys666666'));
     session = driver.session();
 
     // Run the Cypher query

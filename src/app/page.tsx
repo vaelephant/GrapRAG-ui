@@ -50,7 +50,7 @@ export default function Home() {
   return (
 <div className="z-10 w-full max-w-5xl flex flex-col items-center font-mono text-3xl mt-2">
 <h1 className="text-center mt-6">LLM Business Intelligence 基于人工智能的商业智能</h1>
-  <div ref={visRef} style={{ width: "100%", height: "600px" }} />
+  <div ref={visRef} style={{ width: "100%", height: "1200px" }} />
   </div>
   );
 }
